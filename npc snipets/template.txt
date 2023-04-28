@@ -1,0 +1,108 @@
+<event name="ItemNPC1">
+<pos x="3702.03" z="5988.84" a="113.000000"/>
+</event>
+
+<type name="SurvivorM_Mirek">
+<attachments>
+<item name="MilitaryBeret_CDF"/>
+</attachments>
+<attachments>
+<item name="NVGHeadstrap"/>
+</attachments>
+<attachments>
+<item name="BDUJacket"/>
+</attachments>
+<attachments>
+<item name="BDUPants"/>
+</attachments>
+<attachments>
+<item name="MilitaryBoots_Black"/>
+</attachments>
+<attachments>
+<item name="HighCapacityVest_Black"/>
+</attachments>
+<attachments>
+<item name="NylonKnifeSheath"/>
+</attachments>
+<attachments>
+<item name="CombatKnife"/>
+</attachments>
+<attachments>
+<item name="AliceBag_Black"/>
+</attachments>
+<attachments>
+<item name="TacticalGloves_Beige"/>
+</attachments>
+<attachments>
+<item name="MilitaryBelt"/>
+</attachments>
+<attachments>
+<item name="M4A1_Green"/>
+</attachments>
+<attachments>
+<item name="M4_CQBBttstck"/>
+</attachments>
+<attachments>
+<item name="M4_RISHndgrd_Green"/>
+</attachments>
+<attachments>
+<item name="M4_Suppressor"/>
+</attachments>
+<attachments>
+<item name="ACOGOptic"/>
+</attachments>
+<attachments>
+<item name="Sword"/>
+</attachments>
+<attachments>
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachments>
+<attachments>
+<item name="FNX45"/>
+</attachments>
+<attachments>
+<item name="Mag_FNX45_15Rnd"/>
+</attachments>
+<attachments>
+<item name="RDG2SmokeGrenade_Black"/>
+</attachments>
+<attachments>
+<item name="RDG2SmokeGrenade_Black"/>
+</attachments>
+<attachments>
+<item name="RGD5Grenade"/>
+</attachments>
+<attachments>
+<item name="RGD5Grenade"/>
+</attachments>
+<attachments>
+<item name="BloodTestKit"/>
+</attachments>
+<attachments>
+<item name="Bandage"/>
+</attachments>
+<attachments>
+<item name="Rice"/>
+</attachments>
+<attachments>
+<item name="SodaCan_Cola"/>
+</attachments>
+</type>
+
+<event name="ItemNPC1">
+<nominal>1</nominal>
+<min>1</min>
+<max>1</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Mirek"/>
+</children>
+</event>

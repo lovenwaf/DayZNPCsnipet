@@ -1,0 +1,76 @@
+<event name="ItemNPC3">
+<pos x="12261.95" z="8714.65" a="113.000000"/>
+<pos x="11816.73" z="8380.74" a="113.000000"/>
+<pos x="12771.32" z="7682.44" a="113.000000"/>
+<pos x="11338.46" z="9147.01" a="113.000000"/>
+<pos x="10673.55" z="10864.17" a="113.000000"/>
+<pos x="9230.97" z="8315.42" a="113.000000"/>
+<pos x="8474.44" z="13919.40" a="113.000000"/>
+</event>
+
+
+</event>
+
+<type name="SurvivorM_Seth">
+<attachments>
+<item name="ConstructionHelmet_Orange"/>
+</attachments>
+<attachments>
+<item name="EyeMask_Black"/>
+</attachments>
+<attachments>
+<item name="HuntingVest"/>
+</attachments>
+<attachments>
+<item name="Jeans_Blue"/>
+</attachments>
+<attachments>
+<item name="Hammer"/>
+</attachments>
+<attachments>
+<item name="JoggingShoes_White"/>
+</attachments>
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+<attachments>
+<item name="BatteryCharger"/>
+</attachments>
+<attachments>
+<item name="AlarmClock_Blue"/>
+</attachments>
+<attachments>
+<item name="Rice"/>
+</attachments>
+<attachments>
+<item name="SodaCan_Cola"/>
+</attachments>
+</type>
+
+
+<event name="ItemNPC3">
+<nominal>7</nominal>
+<min>7</min>
+<max>7</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="7" min="7" type="SurvivorM_Seth"/>
+</children>
+</event>

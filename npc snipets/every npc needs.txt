@@ -1,0 +1,22 @@
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="Flashlight"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+
+
+
+cop with smg and cuffs 
+
+fireman with axe 
+
+doctor with meds 
+
+ 
+
+
+

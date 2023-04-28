@@ -1,0 +1,66 @@
+<event name="ItemNPC2">
+<pos x="6567.44" z="14960.78" a="113.000000"/>
+<pos x="13080.45" z="8147.61" a="113.000000"/>
+<pos x="9456.50" z="8675.27" a="113.000000"/>
+<pos x="13399.29" z="12842.66" a="113.000000"/>
+<pos x="11759.38" z="6418.45" a="113.000000"/>
+<pos x="8498.26" z="13907.24" a="113.000000"/>
+</event>
+
+
+
+<type name="SurvivorF_Gabi">
+<attachments>
+<item name="WitchHood_Black"/>
+</attachments>
+<attachments>
+<item name="Shirt_PlaneBlack"/>
+</attachments>
+<attachments>
+<item name="ShortJeans_Black"/>
+</attachments>
+<attachments>
+<item name="DressShoes_Black"/>
+</attachments>
+<attachments>
+<item name="HighCapacityVest_Black"/>
+</attachments>
+<attachments>
+<item name="TacticalGloves_Black"/>
+</attachments>
+<attachments>
+<item name="MilitaryBelt"/>
+</attachments>
+<attachments>
+<item name="Broom"/>
+</attachments>
+<attachments>
+<item name="Bandage"/>
+</attachments>
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="CrookedNose"/>
+</attachments>
+</type>
+
+
+
+<event name="ItemNPC2">
+<nominal>6</nominal>
+<min>6</min>
+<max>6</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="6" min="6" type="SurvivorF_Gabi"/>
+</children>
+</event>

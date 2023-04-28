@@ -1,0 +1,77 @@
+<event name="ItemNPC6">
+<pos x="12018.20" z="9057.44" a="113.000000"/>
+<pos x="13033.79" z="10142.79" a="113.000000"/>
+<pos x="11517.33" z="10148.29" a="113.000000"/>
+<pos x="12338.26" z="9579.83" a="113.000000"/>
+<pos x="13064.89" z="7991.58" a="113.000000"/>
+<pos x="8458.16" z="13932.78" a="113.000000"/>
+</event>
+
+<type name="SurvivorF_Baty">
+<attachments>
+<item name="HeadCover_Improvised"/>
+</attachments>
+<attachments>
+<item name="EyePatch_Improvised"/>
+</attachments>
+<attachments>
+<item name="TorsoCover_Improvised"/>
+</attachments>
+<attachments>
+<item name="LegsCover_Improvised"/>
+</attachments>
+<attachments>
+<item name="FeetCover_Improvised"/>
+</attachments>
+<attachments>
+<item name="FaceCover_Improvised"/>
+</attachments>
+<attachments>
+<item name="HandsCover_Improvised"/>
+</attachments>
+<attachments>
+<item name="BoneKnife"/>
+</attachments>
+<attachments>
+<item name="ImprovisedBag"/>
+</attachments>
+<attachments>
+<item name="BandageDressing"/>
+</attachments>
+<attachments>
+<item name="BandageDressing"/>
+</attachments>
+<attachments>
+<item name="BandageDressing"/>
+</attachments>
+<attachments>
+<item name="BandageDressing"/>
+</attachments>
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="Flashlight"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+</type>
+
+<event name="ItemNPC6">
+<nominal>6</nominal>
+<min>6</min>
+<max>6</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="6" min="6" type="SurvivorF_Baty"/>
+</children>
+</event>

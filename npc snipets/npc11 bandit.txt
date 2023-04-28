@@ -1,0 +1,72 @@
+<event name="ItemNPC11">
+<pos x="8481.00" z="14004.36" a="113.000000"/>
+<pos x="11027.39" z="13330.97" a="113.000000"/>
+<pos x="12333.88" z="12278.69" a="113.000000"/>
+<pos x="11775.17" z="9095.82" a="113.000000"/>
+<pos x="11939.94" z="9201.86" a="113.000000"/>
+<pos x="12126.34" z="9075.08" a="113.000000"/>
+</event>
+
+
+<type name="SurvivorF_Linda">
+<attachments>
+<item name="BalaclavaMask_Pink"/>
+</attachments>
+<attachments>
+<item name="CowboyHat_Black"/>
+</attachments>
+<attachments>
+<item name="TacticalShirt_Black"/>
+</attachments>
+<attachments>
+<item name="LeatherPants_Black"/>
+</attachments>
+<attachments>
+<item name="MilitaryBoots_Black"/>
+</attachments>
+<attachments>
+<item name="HighCapacityVest_Black"/>
+</attachments>
+<attachments>
+<item name="TacticalGloves_Black"/>
+</attachments>
+<attachments>
+<item name="rope"/>
+</attachments>
+<attachments>
+<item name="rope"/>
+</attachments>
+<attachments>
+<item name="Mp133Shotgun"/>
+</attachments>
+<attachments>
+<item name="Ammo_12gaSlug"/>
+</attachments>
+<attachments>
+<item name="FangKnife"/>
+</attachments>
+<attachments>
+<item name="Lighter"/>
+</attachments>
+<attachments>
+<item name="BurlapSack"/>
+</attachments>
+</type>
+
+<event name="ItemNPC11">
+<nominal>6</nominal>
+<min>6</min>
+<max>6</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="6" min="6" type="SurvivorF_Linda"/>
+</children>
+</event>

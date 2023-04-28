@@ -1,0 +1,63 @@
+<event name="ItemNPC4">
+<pos x="11847.84" z="10134.72" a="113.000000"/>
+<pos x="11299.58" z="9755.23" a="113.000000"/>
+<pos x="8538.84" z="7267.77" a="113.000000"/>
+<pos x="9184.31" z="13112.70" a="113.000000"/>
+<pos x="13088.22" z="5597.83" a="113.000000"/>
+<pos x="11836.17" z="3807.77" a="113.000000"/>
+<pos x="8480.27" z="13923.05" a="113.000000"/>
+</event>
+
+<type name="SurvivorM_Quinn">
+<attachments>
+<item name="GhillieHood_Mossy"/>
+</attachments>
+<attachments>
+<item name="AmmoBox_762x54_20Rnd"/>
+</attachments>
+<attachments>
+<item name="BDUJacket"/>
+</attachments>
+<attachments>
+<item name="BDUPants"/>
+</attachments>
+<attachments>
+<item name="MilitaryBoots_Black"/>
+</attachments>
+<attachments>
+<item name="NylonKnifeSheath"/>
+</attachments>
+<attachments>
+<item name="CombatKnife"/>
+</attachments>
+<attachments>
+<item name="GhillieSuit_Mossy"/>
+</attachments>
+<attachments>
+<item name="TacticalGloves_Beige"/>
+</attachments>
+<attachments>
+<item name="MilitaryBelt"/>
+</attachments>
+<attachments>
+<item name="Mosin9130"/>
+</attachments>
+</type>
+
+<event name="ItemNPC4">
+<nominal>7</nominal>
+<min>7</min>
+<max>7</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="7" min="7" type="SurvivorM_Quinn"/>
+</children>
+</event>

@@ -1,0 +1,77 @@
+<event name="ItemNPC5">
+<pos x="12759.66" z="9535.61" a="113.000000"/>
+<pos x="12316.39" z="9446.11" a="113.000000"/>
+<pos x="12234.73" z="9732.13" a="113.000000"/>
+<pos x="12837.43" z="10210.71" a="113.000000"/>
+<pos x="12600.24" z="9837.13" a="113.000000"/>
+<pos x="8456.94" z="13921.83" a="113.000000"/>
+</event>
+
+<type name="SurvivorM_Oliver">
+<attachments>
+<item name="ManSuit_Black"/>
+</attachments>
+<attachments>
+<item name="DressShoes_Black"/>
+</attachments>
+<attachments>
+<item name="AviatorGlasses"/>
+</attachments>
+<attachments>
+<item name="BrassKnuckles_Shiny"/>
+</attachments>
+<attachments>
+<item name="SlacksPants_Black"/>
+</attachments>
+<attachments>
+<item name="PersonalRadio"/>
+</attachments>
+<attachments>
+<item name="Balaclava3Holes_Black"/>
+</attachments>
+<attachments>
+<item name="CombatKnife"/>
+</attachments>
+<attachments>
+<item name="TacticalGloves_Black"/>
+</attachments>
+<attachments>
+<item name="FNX45"/>
+</attachments>
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="Flashlight"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+<attachments>
+<item name="Mag_FNX45_15Rnd"/>
+</attachments>
+<attachments>
+<item name="Mag_FNX45_15Rnd"/>
+</attachments>
+<attachments>
+<item name="Mag_FNX45_15Rnd"/>
+</attachments>
+</type>
+
+<event name="ItemNPC5">
+<nominal>6</nominal>
+<min>6</min>
+<max>6</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="6" min="6" type="SurvivorM_Oliver"/>
+</children>
+</event>

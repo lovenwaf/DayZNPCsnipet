@@ -1,0 +1,71 @@
+<event name="ItemNPC8">
+<pos x="12763.06" z="10065.53" a="113.000000"/>
+<pos x="11950.88" z="9069.80" a="113.000000"/>
+<pos x="11902.03" z="12553.03" a="113.000000"/>
+<pos x="11276.98" z="12134.35" a="113.000000"/>
+<pos x="9484.20" z="8839.86" a="113.000000"/>
+<pos x="8564.60" z="13956.07" a="113.000000"/>
+</event>
+
+<type name="SurvivorM_Taiki">
+<attachments>
+<item name="MedicalScrubsHat_White"/>
+</attachments>
+<attachments>
+<item name="MedicalScrubsShirt_Blue"/>
+</attachments>
+<attachments>
+<item name="MedicalScrubsPants_Blue"/>
+</attachments>
+<attachments>
+<item name="DressShoes_Black"/>
+</attachments>
+<attachments>
+<item name="LabCoat"/>
+</attachments>
+<attachments>
+<item name="SurgicalMask"/>
+</attachments>
+<attachments>
+<item name="Morphine"/>
+</attachments>
+<attachments>
+<item name="SurgicalGloves_Blue"/>
+</attachments>
+<attachments>
+<item name="AntiChemInjector"/>
+</attachments>
+<attachments>
+<item name="Epinephrine"/>
+</attachments>
+<attachments>
+<item name="CharcoleTablets"/>
+</attachments>
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="Flashlight"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+</type>
+
+<event name="ItemNPC8">
+<nominal>6</nominal>
+<min>6</min>
+<max>6</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="6" min="6" type="SurvivorM_Taiki"/>
+</children>
+</event>

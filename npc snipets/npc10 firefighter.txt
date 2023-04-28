@@ -1,0 +1,58 @@
+<event name="ItemNPC10">
+<pos x="10448.03" z="8913.05" a="113.000000"/>
+<pos x="8473.23" z="13908.83" a="113.000000"/>
+<pos x="12815.07" z="9995.96" a="113.000000"/>
+<pos x="12864.64" z="9223.13" a="113.000000"/>
+<pos x="13098.92" z="10415.91" a="113.000000"/>
+<pos x="10281.31" z="2157.98" a="113.000000"/>
+</event>
+
+<type name="SurvivorM_Jose">
+<attachments>
+<item name="FirefightersHelmet_Red"/>
+</attachments>
+<attachments>
+<item name="FirefightersJacket_Black"/>
+</attachments>
+<attachments>
+<item name="FirefightersPants_Beige"/>
+</attachments>
+<attachments>
+<item name="MilitaryBoots_Black"/>
+</attachments>
+<attachments>
+<item name="AliceBag_Black"/>
+</attachments>
+<attachments>
+<item name="TacticalGloves_Beige"/>
+<attachments>
+<item name="FirefightersAxe_Green"/>
+</attachments>
+<attachments>
+<item name="ChernarusMap"/>
+</attachments>
+<attachments>
+<item name="Flashlight"/>
+</attachments>
+<attachments>
+<item name="Battery9V"/>
+</attachments>
+</type>
+
+<event name="ItemNPC10">
+<nominal>1</nominal>
+<min>1</min>
+<max>1</max>
+<lifetime>2500</lifetime>
+<restock>0</restock>
+<saferadius>0</saferadius>
+<distanceradius>0</distanceradius>
+<cleanupradius>200</cleanupradius>
+<flags deletable="0" init_random="0" remove_damaged="1"/>
+<position>fixed</position>
+<limit>child</limit>
+<active>1</active>
+<children>
+<child lootmax="0" lootmin="0" max="6" min="6" type="SurvivorM_Jose"/>
+</children>
+</event>
