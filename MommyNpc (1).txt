@@ -23,7 +23,7 @@
 <item name="M4_CQBBttstck_Black"/>
 </attachment>
 <attachment> 
-<item name="Mag_STANAGCoupled_30Rnd"/>
+<item name="Mag_STANAGCoupled_60Rnd"/>
 </attachment>
 <attachment> 
 <item name="UniversalLight"/>
@@ -56,16 +56,16 @@
 <item name="PlateCarrierPouches_Black"/>
 </attachment>
 <attachment> 
-<item name="Mag_STANAGCoupled_30Rnd"/>
+<item name="Mag_STANAGCoupled_60Rnd"/>
 </attachment>
 <attachment> 
-<item name="Mag_STANAGCoupled_30Rnd"/>
+<item name="Mag_STANAGCoupled_60Rnd"/>
 </attachment>
 <attachment> 
-<item name="Mag_STANAGCoupled_30Rnd"/>
+<item name="Mag_STANAGCoupled_60Rnd"/>
 </attachment>
 <attachment> 
-<item name="Mag_STANAGCoupled_30Rnd"/>
+<item name="Mag_STANAGCoupled_60Rnd"/>
 </attachment>
 <attachment>
 <item name="AliceBag"/>
@@ -86,7 +86,7 @@
 <item name="WeaponCleaningKit"/>
 </attachment>
 <attachment> 
-<item name="Mag_STANAGCoupled_30Rnd"/>
+<item name="Mag_STANAGCoupled_60Rnd"/>
 </attachment>
 <attachment/> 
 <item name="M4_Suppressor"/>
