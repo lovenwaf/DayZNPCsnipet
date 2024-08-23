@@ -1,0 +1,188 @@
+<attachment>
+<item name="SneakersBlack"/>
+<attachment/>
+<attachment>
+<item name="CivilianBelt"/>
+<attachment/>
+<attachment>
+<item name="Sheath"/>
+<attachment/>
+<attachment>
+<item name="StokeKnife"/>
+<attachment/>
+<attachment>
+<item name="Canteen"/>
+<attachment/>
+<attachment>
+<item name="M4A1_Black"/>
+<attachment/>
+<attachment/> 
+<item name="M4_Suppressor"/>
+</attachment>
+<attachment/> 
+<item name="M4_CQBBttstck_Black"/>
+</attachment>
+<attachmen/> 
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachment>
+<attachmen/> 
+<item name="UniversalLight"/>
+</attachment>
+<attachmen/> 
+<item name="Battery9V"/>
+</attachment>
+<attachmen/> 
+<item name="Winchester70"/>
+</attachment>
+<attachment>
+<item name="ImprovisedSuppressor"/>
+<attachment/>
+<attachment>
+<item name="PlateCarrier_Black"/>
+<attachment/>
+<attachment>
+<item name="M67Grenade"/>
+<attachment/>
+<attachment>
+<item name="M18SmokeGrenade_Green"/>
+<attachment/>
+<attachment>
+<item name="M67Grenade"/>
+<attachment/>
+<attachment>
+<item name="M67Grenade"/>
+<attachment/>
+<attachment>
+<item name="PlateCarrierPouches_Black"/>
+<attachment/>
+<attachmen/> 
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachment>
+<attachmen/> 
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachment>
+<attachmen/> 
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachment>
+<attachmen/> 
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachment>
+<attachment>
+<item name="AliceBag"/>
+<attachment/>
+<attachment>
+<item name="Candycane_Green "/>
+<attachment/>
+<attachment>
+<item name="Candycane_Red "/>
+<attachment/>
+<attachment>
+<item name="Candycane_Red "/>
+<attachment/>
+<attachment>
+<item name="SodaCane_Cola"/>
+<attachment/>
+<attachment>
+<item name="WeaponCleaningKit"/>
+<attachment/>
+<attachmen/> 
+<item name="Mag_STANAGCoupled_30Rnd"/>
+</attachment>
+<attachment/> 
+<item name="M4_Suppressor"/>
+</attachment>
+<attachment/> 
+<item name="TeddyBearBrown"/>
+</attachment>
+<attachment/> 
+<item name="CargoPants_Black"/>
+</attachment>
+<attachment/> 
+<item name="BandageDressing"/>
+</attachment>
+<attachment/> 
+<item name="BandageDressing"/>
+</attachment>
+<attachment/> 
+<item name="Morphine"/>
+</attachment>
+<attachment/> 
+<item name="Morphine"/>
+</attachment>
+<attachment/> 
+<item name="SalineBagIV"/>
+</attachment>
+<attachment/> 
+<item name="SalineBagIV"/>
+</attachment>
+<attachment/> 
+<item name="TetracyclineAntibiotics"/>
+</attachment>
+<attachment/> 
+<item name="EpoxyPutty"/>
+</attachment>
+<attachment/> 
+<item name="M65Jacket_Black"/>
+</attachment>
+<attachment/> 
+<item name="Po_X_Vial"/>
+</attachment>
+<attachment/> 
+<item name="Po_X_Vial"/>
+</attachment>
+<attachment/> 
+<item name="Po_X_Vial"/>
+</attachment>
+<attachment/> 
+<item name="Po_X_Vial"/>
+</attachment>
+<attachment/> 
+<item name="Po_X_Vial"/>
+</attachment>
+<attachment/> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment/> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment/> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment/> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment/> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment/> 
+<item name="InjectionVial"/>
+</attachment>
+<attachment/> 
+<item name="GorkaHelmet_Black"/>
+</attachment>
+<attachment/> 
+<item name="GorkaHelmetVisor"/>
+</attachment>
+<attachment/> 
+<item name="NVGHeadstrap"/>
+</attachment>
+<attachment/> 
+<item name="NVGoggles"/>
+</attachment>
+<attachment/> 
+<item name="Baterry9V"/>
+</attachment>
+<attachment/> 
+<item name="name="WoolGlovesFingerless_Black"/>
+</attachment>
+
+
+
+
+
+
+
+
+
+
+
