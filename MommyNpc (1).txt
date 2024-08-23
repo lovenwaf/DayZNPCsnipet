@@ -22,16 +22,16 @@
 <attachment/> 
 <item name="M4_CQBBttstck_Black"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="Mag_STANAGCoupled_30Rnd"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="UniversalLight"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="Battery9V"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="Winchester70"/>
 </attachment>
 <attachment>
@@ -55,16 +55,16 @@
 <attachment>
 <item name="PlateCarrierPouches_Black"/>
 <attachment/>
-<attachmen/> 
+<attachment/> 
 <item name="Mag_STANAGCoupled_30Rnd"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="Mag_STANAGCoupled_30Rnd"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="Mag_STANAGCoupled_30Rnd"/>
 </attachment>
-<attachmen/> 
+<attachment/> 
 <item name="Mag_STANAGCoupled_30Rnd"/>
 </attachment>
 <attachment>
@@ -85,7 +85,7 @@
 <attachment>
 <item name="WeaponCleaningKit"/>
 <attachment/>
-<attachmen/> 
+<attachment/> 
 <item name="Mag_STANAGCoupled_30Rnd"/>
 </attachment>
 <attachment/> 
@@ -175,14 +175,3 @@
 <attachment/> 
 <item name="name="WoolGlovesFingerless_Black"/>
 </attachment>
-
-
-
-
-
-
-
-
-
-
-
