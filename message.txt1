@@ -1,6 +1,4 @@
-<attachment>
-<item name="SurvivorF_Gabi/>
-</attachment>
+
 <attachment>
 <item name="HandcuffsLocked"/>
 </attachment>
@@ -47,13 +45,13 @@
 <item name="NVGoggles"/>
 </attachment>
 <attachment>
-<item name="Baterry9V"/>
+<item name="Battery9v"/>
 </attachment>
 <attachment> 
 <item name="name="WoolGlovesFingerless_Black"/>
 </attachment>
 <attachment>
-<item name="SneakersBlack"/>
+<item name="Sneakers_Black"/>
 </attachment>
 <attachment>
 <item name="CivilianBelt"/>
@@ -62,7 +60,13 @@
 <item name="NylonKnifeSheath"/>
 </attachment>
 <attachment>
+<item name="CombatKnife"/>
+</attachment>
+<attachment>
 <item name="Canteen"/>
+</attachment>
+<attachment>
+<item name="PlateCarrierVest_Black"/>
 </attachment>
 <attachment>
 <item name="PlateCarrierPouches_Black"/>
@@ -83,19 +87,19 @@
 <item name="M65Jacket_Black"/>
 </attachment>
 <attachment> 
-<item name="Po_X_Vial"/>
+<item name="Grenade_ChemGas"/>
 </attachment>
 <attachment> 
-<item name="Po_X_Vial"/>
+<item name="Grenade_ChemGas"/>
 </attachment>
 <attachment> 
-<item name="Po_X_Vial"/>
+<item name="Grenade_ChemGas"/>
 </attachment>
 <attachment> 
-<item name="Po_X_Vial"/>
+<item name="Grenade_ChemGas"/>
 </attachment>
 <attachment> 
-<item name="Po_X_Vial"/>
+<item name="Grenade_ChemGas"/>
 </attachment>
 <attachment> 
 <item name="Ammo_380Win"/>
@@ -113,7 +117,7 @@
 <item name="Ammo_380Win"/>
 </attachment>
 <attachment> 
-<item name="InjectionVial"/>
+<item name="AntiChemInjector"/>
 </attachment>
 <attachment/> 
 <item name="CargoPants_Black"/>
@@ -167,7 +171,7 @@
 <item name="M4_Suppressor"/>
 </attachment>
 <attachment> 
-<item name="TeddyBearBrown"/>
+<item name="Bear_Dark"/>
 </attachment>
 
 
