@@ -26,7 +26,7 @@
 <item name="M4_RISHndgrd_Black"/>
 </attachment>
 <attachment> 
-<item name="mag_stanag_60RNd"/>
+<item name="Mag_STANAG_60Rnd"/>
 </attachment>
 <attachment> 
 <item name="UniversalLight"/>
@@ -62,16 +62,16 @@
 <item name="PlateCarrierPouches_Black"/>
 </attachment>
 <attachment> 
-<item name="mag_stanag_60RNd"/>
+<item name="Mag_STANAG_60Rnd"/>
 </attachment>
 <attachment> 
-<item name="mag_stanag_60RNd"/>
+<item name="Mag_STANAG_60Rnd"/>
 </attachment>
 <attachment> 
-<item name="mag_stanag60RNd"/>
+<item name="Mag_STANAG_60Rnd"/>
 </attachment>
 <attachment> 
-<item name="mag_stanag60RNd"/>
+<item name="Mag_STANAG_60Rnd"/>
 </attachment>
 <attachment>
 <item name="AliceBag"/>
@@ -86,13 +86,13 @@
 <item name="Candycane_Red "/>
 </attachment>
 <attachment>
-<item name="SodaCane_Cola"/>
+<item name="SodaCan_Cola"/>
 </attachment>
 <attachment>
 <item name="WeaponCleaningKit"/>
 </attachment>
 <attachment> 
-<item name="mag_stanag60RNd"/>
+<item name="Mag_STANAG_60Rnd"/>
 </attachment>
 <attachment/> 
 <item name="M4_Suppressor"/>
