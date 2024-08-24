@@ -62,7 +62,7 @@
 <item name="PlateCarrierPouches_Black"/>
 </attachment>
 <attachment> 
-<item name=mag_stanag_60RNd"/>
+<item name="mag_stanag_60RNd"/>
 </attachment>
 <attachment> 
 <item name="mag_stanag_60RNd"/>
