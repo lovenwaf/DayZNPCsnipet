@@ -1,0 +1,117 @@
+<attachment>
+<item name="M4A1_Black"/>
+</attachment>
+<attachment> 
+<item name="M4_Suppressor"/>
+</attachment>
+<attachment> 
+<item name="M4_CQBBttstck_Black"/>
+</attachment>
+<attachment> 
+<item name="M4_RISHndgrd_Black"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Winchester70_Black"/>
+</attachment>
+<attachment> 
+<item name="HuntingOptic"/>
+</attachment>
+<attachment>
+<item name="ImprovisedSuppressor"/>
+</attachment>
+<attachment>
+<item name="BallistickHelmet_Desert"/>
+</attachment> 
+<attachment> 
+<item name="NVGHeadstrap"/>
+</attachment>
+<attachment> 
+<item name="NVGoggles"/>
+</attachment>
+<attachment>
+<item name="Battery9V"/>
+</attachment>
+<attachment>
+<item name="TacticalGloves_Beige"/>
+</attachment>
+<attachment>
+<item name="HipPackBlack"/>
+</attachment>
+<attachment>
+<item name="AssaultBoots_Beige"/>
+</attachment>
+<attachment>
+<item name="Armband_APA"/>
+</attachment>
+<attachment>
+<item name="PlateCarrierVest_Black"/>
+</attachment>
+<attachment>
+<item name="PlateCarrierVest_Black"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="PlateCarrierPouches_Black"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="USMCJacket_Desert"/>
+</attachment>
+<attachment> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment>
+<item name="ImprovisedSuppressor"/>
+</attachment>
+<attachment>
+<item name="Mag_MKll_10Rnd"/>
+</attachment>
+<attachment>
+<item name="MKII"/>
+</attachment>
+<attachment>
+<item name="PistolSuppressor"/>
+</attachment>
+<attachment>
+<item name="Mag_MKll_10Rnd"/>
+</attachment>
+<attachment>
+<item name="USMCPants_Desert"/>
+</attachment>
+<item name="WaterBottle"/>
+</attachment>
+<attachment>
+<item name="WaterBottle"/>
+</attachment>
+<attachment>
+<attachment>
+<item name="DuctTape"/>
+</attachment>
