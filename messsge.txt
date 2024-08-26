@@ -38,7 +38,7 @@
 <item name="WoolGlovesFingerless_Black"/>
 </attachments>
 <attachments>
-<item name="Sneakers_Green"/>
+<item name="Ballerinas_White"/>
 </attachments>
 <attachments>
 <item name="CivilianBelt"/>
