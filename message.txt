@@ -1,0 +1,126 @@
+ <attachment>
+<item name="M4A1_Black"/>
+</attachment>
+<attachment> 
+<item name="M4_Suppressor"/>
+</attachment>
+<attachment> 
+<item name="M4_CQBBttstck_Black"/>
+</attachment>
+<attachment> 
+<item name="M4_RISHndgrd_Black"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Winchester70_Black"/>
+</attachment>
+<attachment> 
+<item name="HuntingOptic"/>
+</attachment>
+<attachment>
+<item name="ImprovisedSuppressor"/>
+</attachment>
+<attachment>
+<item name="WitchHood_Black"/>
+</attachment>
+<attachment> 
+<item name="NVGHeadstrap"/> 
+</attachment>
+<attachment> 
+<item name="NVGoggles"/>
+</attachment>
+<attachment>
+<item name="Battery9V"/>
+</attachment>
+<attachment> 
+<item name="WoolGlovesFingerless_Black"/>
+</attachment>
+<attachment>
+<item name="Sneakers_Green"/>
+</attachment>
+<attachment>
+<item name="CivilianBelt"/>
+</attachment>
+<attachment>
+<item name="Canteen"/>
+</attachment>
+<attachment>
+<item name="Armband_Pink"/>
+</attachment>
+<attachment>
+<item name="PlateCarrierVest_Black"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="M67Grenade"/>
+</attachment>
+<attachment>
+<item name="PlateCarrierPouches_Black"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="Mag_STANAG_60Rnd"/>
+</attachment>
+<attachment> 
+<item name="MedicalScrubsShirt_Green"/>
+</attachment>
+<attachment> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment> 
+<item name="Ammo_380Win"/>
+</attachment>
+<attachment>
+<item name="SewingKit"/>
+</attachment>
+<attachment>
+<item name="WeaponCleaningKit"/>
+</attachment>
+<attachment>
+<item name="ParamedicPants_Green"/>
+</attachment>
+<attachment> 
+<item name="BandageDressing"/>
+</attachment>
+<attachment> 
+<item name="BandageDressing"/>
+</attachment>
+<attachment> 
+<item name="Morphine"/>
+</attachment>
+<attachment/> 
+<item name="Morphine"/>
+</attachment>
+<attachment> 
+<item name="SalineBagIV"/>
+</attachment>
+<attachment> 
+<item name="TetracyclineAntibiotics"/>
+</attachment>
+<attachment> 
+<item name="AntiCheminjector"/>
+</attachment>
+<attachment> 
+<item name="PainKillerTablets"/>
+</attachment>
+<attachment> 
+<item name="CandyCane_RedGreen"/>
+</attachment>
