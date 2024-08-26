@@ -106,7 +106,7 @@
 <attachments> 
 <item name="Morphine"/>
 </attachments>
-<attachments/> 
+<attachments> 
 <item name="Morphine"/>
 </attachments>
 <attachments> 
